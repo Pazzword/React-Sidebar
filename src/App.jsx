@@ -17,7 +17,6 @@ function App() {
   const {
     token: { colorBgContainer },
   } = theme.useToken()
-
   return (
     <>
       <Layout>
